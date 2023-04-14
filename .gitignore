@@ -1,0 +1,8 @@
+.DS_Store
+.terraform*
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+terraform*
+tfplan
+tf*
+notes.txt
